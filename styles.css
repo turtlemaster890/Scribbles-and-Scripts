@@ -3,3 +3,7 @@ body {
     background: lightskyblue;
     text-align: center;
 }
+.title {
+    color:darkviolet;
+    size: 10cm;
+}
